@@ -1,24 +1,9 @@
 {
     "roles": [
-        {
-            "id": 10,
-            "name": "Admin"
-        },
-        {
-            "id": 13,
-            "name": "IT Support"
-        },
-        {
-            "id": 2,
-            "name": "Trader"
-        },
-        {   
-            "id": 4,
-            "name": "Logistics Customer"
-        },
-        {
-            "id": 21,
-            "name": "Logistics Supplier"
-        }
+        {"id": 10,"name": "Admin"},
+        {"id": 13,"name": "IT Support"},
+        {"id": 2,"name": "Trader"},
+        {"id": 4,"name": "Logistics Customer"},
+        {"id": 21,"name": "Logistics Supplier"}
     ]
 }
