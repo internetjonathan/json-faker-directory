@@ -8,6 +8,7 @@
     ],
     "users": [
         {
+            "id": 1,
             "firstName": "jon",
             "lastName": "doe",
             "email": "doe@doe.com",
